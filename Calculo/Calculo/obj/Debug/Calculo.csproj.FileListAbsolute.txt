@@ -1,0 +1,7 @@
+D:\Desktop\Practica Final C\Calculo\Calculo\bin\Debug\Calculo.exe.config
+D:\Desktop\Practica Final C\Calculo\Calculo\bin\Debug\Calculo.exe
+D:\Desktop\Practica Final C\Calculo\Calculo\bin\Debug\Calculo.pdb
+D:\Desktop\Practica Final C\Calculo\Calculo\obj\Debug\Calculo.csprojAssemblyReference.cache
+D:\Desktop\Practica Final C\Calculo\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+D:\Desktop\Practica Final C\Calculo\Calculo\obj\Debug\Calculo.exe
+D:\Desktop\Practica Final C\Calculo\Calculo\obj\Debug\Calculo.pdb
